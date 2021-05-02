@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Calculador de Despesa em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para acessar esse projeto basta [Clicar aqui!](https://calculadora-de-despesa.netlify.app/).
 
 ## Available Scripts
 
